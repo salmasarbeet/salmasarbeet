@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmasarbeet&label=Profile%20views&color=0e75b6&style=flat" alt="salmasarbeet" /> </p>
 
-- 🌱 I’m currently learning **MERN S**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Javascript and Graphic Design**
 
