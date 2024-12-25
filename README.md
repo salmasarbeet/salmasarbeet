@@ -2,13 +2,13 @@
   <img height="150" src="https://c.tenor.com/CzdMW7wnLn8AAAAC/tenor.gif"  />
 </div>
 <h1 align="center">Hey Y'all 👋, I'm Salma Sarbeet</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate IT developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmasarbeet&label=Profile%20views&color=0e75b6&style=flat" alt="salmasarbeet" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently a **Front-end developer** & a **Master's Student in Computer Engineering and Artificial Intelligence**
 
-- 💬 Ask me about **Javascript and Graphic Design**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **salmasarbeet@gmail.com**
 
